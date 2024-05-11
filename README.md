@@ -1,8 +1,7 @@
 Capstone Project: Exploring Coffee Quality Data with Power BI
-About Dataset
 
-Note: Please submit your Capstone project in the "Data Science Bootcamp" Course."
-Click here to download dataset
+Dataset Link : https://s3.amazonaws.com/grey_campus/production/system/OdinSchool/2023/Edmingle/DataSet/df_arabica_clean.zip
+
 Coffee Quality Institute: 
 The Coffee Quality Institute (CQI) is a non-profit organization that works to improve the quality and value of coffee worldwide. It was founded in 1996 and has its headquarters in California, USA.
 
